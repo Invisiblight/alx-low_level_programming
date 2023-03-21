@@ -3,6 +3,6 @@
 
 int main(void)
 {
-  write("_putchar\n", 9);
+  write(STDOUT_FILENO,"_putchar\n", 9);
   return 0;
 }
