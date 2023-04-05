@@ -1,0 +1,2 @@
+#!/bin/bash
+gcc "$CFILE" -o cisfun11;rgb:0000/0000/0000
